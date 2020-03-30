@@ -1,3 +1,2 @@
-# secretsnow-adfilters
-ad filter list
-ublock origin
+# Ad Filters
+Ad Filter list for uBlock Origin

@@ -1,28 +1,19 @@
-### Linux
-
+### Linux ###
 *~
-
 # temp files created if a process has a handle open of a deleted file
 .fuse_hidden*
-
 # KDE directory preferences
 .directory
-
 # Linux trash folder
 .Trash-*
-
 # .nfs files created when an open file is removed but still being accessed
 .nfs*
-
-### Mac
-
+### Mac ###
 .DS_Store
 .AppleDouble
 .LSOverride
-
 # Thumbnails
 ._*
-
 # Files that might appear in the volume root
 .DocumentRevisions-V100
 .fseventsd
@@ -31,37 +22,29 @@
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
 # Directories possibly created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
-
-### Windows
-
+### Windows ###
 # Thumbnail cache
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
-
 # Dump
 *.stackdump
-
 # Folder config
 [Dd]esktop.ini
-
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
-
 # Windows Installer files
 *.cab
 *.msi
 *.msix
 *.msm
 *.msp
-
 # Windows shortcuts
 *.lnk
